@@ -25,3 +25,4 @@ grep -l "forest" * | wc -l -- answer is 15!
 
 The three biggest pokemon are Pikachu, Charizard and Beedrill.
 find captured/ -type f -exec wc -l {} + | sort -rn
+
