@@ -1,20 +1,18 @@
 # Part 1
 ### a)
-grep bulb forest/* > bulbasaur.txt
-grep venu forest/* > venusaur.txt
-grep ivy forest/* > ivysaur.txt
-grep butt forest/* > butterfree.txt
-grep mander$ forest/* > charmander.txt
-grep psyd forest/* > psyduck.txt
-grep wart forest/* > wartortle.txt
-grep beed forest/* > beedrill.txt
-grep zard$ forest/* > charizard.txt
-grep ji forest/* > jigglypuff.txt
-grep meow forest/* > meowth.txt
-grep pika forest/* > pikachu.txt
-grep squi forest/* > squirtle.txt
-
-
+grep bulb forest/* > captured/bulbasaur.txt
+grep venu forest/* > captured/venusaur.txt
+grep ivy forest/* > captured/ivysaur.txt
+grep butt forest/* > captured/butterfree.txt
+grep mander$ forest/* > captured/charmander.txt
+grep psyd forest/* > captured/psyduck.txt
+grep wart forest/* > captured/wartortle.txt
+grep beed forest/* > captured/beedrill.txt
+grep zard$ forest/* > captured/charizard.txt
+grep ji forest/* > captured/jigglypuff.txt
+grep meow forest/* > captured/meowth.txt
+grep pika forest/* > captured/pikachu.txt
+grep squi forest/* > captured/squirtle.txt
 
 ### b)
 
