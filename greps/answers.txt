@@ -1,36 +1,20 @@
 # Part 1
-### a)
-grep bulb forest/* > captured/bulbasaur.txt
-grep venu forest/* > captured/venusaur.txt
-grep ivy forest/* > captured/ivysaur.txt
-grep butt forest/* > captured/butterfree.txt
-grep mander$ forest/* > captured/charmander.txt
-grep psyd forest/* > captured/psyduck.txt
-grep wart forest/* > captured/wartortle.txt
-grep beed forest/* > captured/beedrill.txt
-grep zard$ forest/* > captured/charizard.txt
-grep ji forest/* > captured/jigglypuff.txt
-grep meow forest/* > captured/meowth.txt
-grep pika forest/* > captured/pikachu.txt
-grep squi forest/* > captured/squirtle.txt
-
-### b)
-
-
-
-### c)
-
-
-
-
-
-
-
-
-
-
-
-
+### a) and also ###b) and also ###c)
+grep bulb forest/* > captured/bulbasaur.txt -- file 1
+grep venu forest/* > captured/venusaur.txt -- file 4
+grep ivy forest/* > captured/ivysaur.txt -- file 3
+grep butt forest/* > captured/butterfree.txt -- file 1
+grep mander$ forest/* > captured/charmander.txt -- file 2
+grep psyd forest/* > captured/psyduck.txt -- file 4
+grep wart forest/* > captured/wartortle.txt -- file 4
+grep beed forest/* > captured/beedrill.txt -- file 1
+grep zard$ forest/* > captured/charizard.txt -- file 2
+grep ji forest/* > captured/jigglypuff.txt -- file 3
+grep meow forest/* > captured/meowth.txt --file 3
+grep pika forest/* > captured/pikachu.txt -- file 3
+grep squi forest/* > captured/squirtle.txt -- file 4
+grep meleon$ forest/* > captured/charmeleon.txt 2 -- file 2
+grep blas forest/* > captured/blastoise.txt -- file 1
 
 # Part 2
 ### a)
